@@ -6,3 +6,5 @@ services:
     build:
       context: ./Qubiz.IdentityServer
       dockerfile: Dockerfile
+
+
